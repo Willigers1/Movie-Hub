@@ -1,0 +1,10 @@
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+}
+.poster {
+  width: 200px;
+  height: 300px;
+  border-radius: 20px;
+  margin: 10px;
+}
